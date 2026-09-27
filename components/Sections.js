@@ -433,7 +433,7 @@ export function SiteFooter() {
         </div>
         <div className="footer-bottom">
           <p>
-            © {site.year} {site.companyName}. {site.address}
+            © {site.year} {site.companyName}
           </p>
           <a href="#top" className="footer-top">
             Back to top
